@@ -1,0 +1,38 @@
+<meta property="fb:admins" content="100001422224225" />
+<meta property="fb:page_id" content="241333394220"/>
+
+是facebook申请的接口ID
+
+<meta property="og:title" content="**’s Facebook" />
+
+<meta property="og:type" content="product"/>
+
+<meta property="og:url" content="http://www.******.com" />
+
+<meta property="og:image" content="http://www.******.com/logo.gif"/>
+
+<meta property="og:description" content="Cool Gadgets at the Right Price - Worldwide Free Shipping -
+******"/>
+
+
+og:videosrc 视频资源链接，例如可是播放视频的flash地址
+
+og:width 视频的宽度
+
+og:height 视频的高度
+
+og:photo 图片列表
+
+og:audiosrc 音乐资源链接，例如可是播放歌曲的flash地址
+
+og:artist 音乐家
+
+og:abstract 内容摘要
+
+og:contentid 内容主体的ID，用来标识当前页面主要内容所处的HTML标签的ID 
+
+og:nick 店铺名
+
+og:postfee 运费
+
+og:price 产品价格
